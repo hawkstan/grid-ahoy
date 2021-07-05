@@ -2,4 +2,4 @@
 
 ### Grid time
 
-(page link to come, don't forget this time)
+https://hawkstan.github.io/grid-ahoy/
