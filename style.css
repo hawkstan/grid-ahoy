@@ -10,7 +10,7 @@ a {
     font-weight: 900;
 }
 .clicky:hover {
-    background-color: rgb(15, 136, 33);
+    background-color: rgb(112, 2, 2);
     color: white;
     box-shadow: 0px 5px 10px 5px rgb(71, 68, 73);
     border-radius: 30px;
@@ -21,6 +21,9 @@ a {
 }
 .item:hover > hr {
     display: none;
+}
+.item:hover > .fas {
+    color: rgb(112, 2, 2);
 }
 @media only screen and (max-width: 400px) {
     #grid {
@@ -61,5 +64,5 @@ hr {
     background-color:rgb(219, 175, 240);
     opacity: 0.5;}
 .fas {
-    color: rgb(66, 2, 2);
+    color: rgb(0, 0, 0);
 }
